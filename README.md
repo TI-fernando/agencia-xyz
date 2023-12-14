@@ -1,6 +1,8 @@
 # Agência XYZ Website
 
-Este repositório contém o código-fonte do website da "Agência XYZ", desenvolvido como parte do projeto DevQuest - Dev em Dobro. O foco principal foi aprimorar as habilidades em CSS Flexbox e Grid.
+Este repositório contém o código-fonte do website da "Agência XYZ", desenvolvido como parte do projeto DevQuest - Dev em Dobro.
+
+O foco principal foi aprimorar as habilidades em CSS Flexbox e Grid.
 
 ## Estrutura do Projeto
 
